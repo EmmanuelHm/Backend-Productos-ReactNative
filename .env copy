@@ -1,0 +1,5 @@
+PORT=puerto_en_local
+MONGODB_CNN=enlace_cluster_mongoDB
+SECRETORPRIVATEKEY=palabra_secreta
+
+CLOUDINARY_URL=api_key_cloudinary
